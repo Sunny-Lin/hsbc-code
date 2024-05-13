@@ -1,0 +1,23 @@
+.line{
+    display: flex;
+    flex-flow: row;
+    width: 500px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 16px;
+    color: #303030
+}
+.time-btn{
+    margin: auto 0;
+    width: 100px;
+    height: 28px;
+    line-height: 28px;
+    background-color: rgb(95, 169, 254);
+    color: #ffffff;
+    border: 1px solid rgb(95, 169, 254);
+    border-radius: 3px;
+}
+
+.text{
+    margin-right: 20px;
+} 
